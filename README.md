@@ -20,15 +20,16 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
+C:\Users\talha\Desktop\3-column-preview-card-component-main\FireShot Capture 001 - Frontend Mentor - 3-column preview card component - 127.0.0.1.png
 
-![](./FireShot Capture 001 - Frontend Mentor - 3-column preview card component - 127.0.0.1.png)
-![](./FireShot Capture 005 - Frontend Mentor - 3-column preview card component - 127.0.0.1.png)
+C:\Users\talha\Desktop\3-column-preview-card-component-main\FireShot Capture 005 - Frontend Mentor - 3-column preview card component - 127.0.0.1.png
+
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Sam007k/3-column-preview-card-component]
+- Live Site URL: [https://sam007k.github.io/3-column-preview-card-component/]
 
 ### Built with
 
@@ -41,8 +42,7 @@ Users should be able to:
 ## Author
 
 - Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [(https://www.frontendmentor.io/profile/sameer)]
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
