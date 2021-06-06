@@ -20,9 +20,9 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
-https://github.com/Sam007k/3-column-preview-card-component/blob/main/FireShot%20Capture%20001%20-%20Frontend%20Mentor%20-%203-column%20preview%20card%20component%20-%20127.0.0.1.png
+![](./FireShot Capture 001 - Frontend Mentor - 3-column preview card component - 127.0.0.1.png)
 
-https://github.com/Sam007k/3-column-preview-card-component/blob/main/FireShot%20Capture%20005%20-%20Frontend%20Mentor%20-%203-column%20preview%20card%20component%20-%20127.0.0.1.png
+![](FireShot Capture 005 - Frontend Mentor - 3-column preview card component - 127.0.0.1.png)
 
 
 
